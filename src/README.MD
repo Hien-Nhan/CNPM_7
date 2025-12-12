@@ -1,7 +1,7 @@
 <!-- Banner -->
 <p align="center">
   <a href="https://ut.edu.vn/" title="University of Transport Ho Chi Minh City" style="border: none;">T
-    <img src="https://tuyensinh.ut.edu.vn/wp-content/uploads/2022/07/logo-full.png" alt="University of Transport Ho Chi Minh City">
+    <img src="https://portal.ut.edu.vn/images/logo_full.png" alt="University of Transport Ho Chi Minh City">
   </a>
 </p>
 
@@ -10,13 +10,13 @@
 # Members
 | Order  | Full Name              |Role       | Github                                                  | Email                   |
 | ------ |-----------------------:|----------:|--------------------------------------------------------:|-------------------------:
-| 1      | Nguyễn Vũ Thuận        |Team leader|[idk](https://github.com/)                               |@ut.edu.vn   |
-| 2      | Nguyễn Vũ Thuận        |Member     |[vux311](https://github.com/)                            |@ut.edu.vn   |
-| 3      | Nguyễn Vũ Thuận        |Member     |[duyva99](https://github.com/)                           |@ut.edu.vn   |
-| 4      | Nguyễn Vũ Thuận        |Member     |[kemm144](https://github.com/)                           |@ut.edu.vn   |
-| 5      | Nguyễn Vũ Thuận        |Member     |[huii68](https://github.com/)                            |@ut.edu.vn   |
-| 6      | Nguyễn Vũ Thuận        |Member     |[hoangduy2301](https://github.com/)                      |@ut.edu.vn   |
-| 7      | Nguyễn Vũ Thuận        |Member     |[idk](https://github.com/)                               |@ut.edu.vn   |
+| 1      |Huỳnh Võ Hiền Nhân      |Team leader|[Hien-Nhan](https://github.com/Hien-Nhan)                |nhanhvh7835@ut.edu.vn    |
+| 2      |Phạm Trí Nguyên         |Member     |[Tri-Nguyen](https://github.com/phamtringuyen66-lgtm)    |nguyenpt8807@ut.edu.vn   |
+| 3      |Phạm Lê Ngọc Hân        |Member     |[kemm144](https://github.com/kemm144)                    |hanpln4560@ut.edu.vn     |
+| 4      |Kiên Hoàng Duy          |Member     |[hoangduy2301](https://github.com/hoangduy2301)          |duykh0074@ut.edu.vn      |
+| 5      |Lưu Minh Huy            |Member     |[huii68](https://github.com/huii68)                      |huylm3938@ut.edu.vn      |
+| 6      |Võ Anh Duy              |Member     |[duyva99](https://github.com/duyva99)                    |duyva1608@ut.edu.vn      |
+| 7      |Nguyễn Vũ Thuận         |Member     |[vux311](https://github.com/vux311)                      |thuannv2510@ut.edu.vn    |
 
 * **Class Name:** SOFTWARE TECHNOLOGY
 * **Class Code:** Update Sau
